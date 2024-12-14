@@ -46,24 +46,257 @@
 
 ## Contents
 
--   [Programming in general](#programming-in-general)
 -   [Web Development](#web-development)
 	- [Frontend](#frontend)
 	- [Backend](#backend)
+ -  [Programming in general](#programming-in-general)
 -   [Computer Science](#computer-science)
 -   [Machine Learning](#machine-learning)
--   [DevOps](#devops)
--   [Game Development](#game-development)
--   [Mobile Development](#mobile-development)
 -   [Cybersecurity](#cybersecurity)
--   [Internet/networking](#internetnetworking)
--   [Software in general](#software-in-general)
--   [Operating Systems](#operating-systems)
--   [Hardware](#hardware)
--   [Competitive Programming](#competitive-programming)
--   [Digital Design](#digital-design)
--   [Audio and Video](#audio-and-video)
 -   [Life Skills](#life-skills)
+
+
+## Web Development
+
+Web development includes frontend backend development topics. You can also find freelancing as a web developer and other related stuff.
+
+### Frontend
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx1mDLn8-L1yG8jIO2yGHvJzqnMZ03dsc3PbNqe=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
+
+[**Codevolution**](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) \
+Content about: React.js, JavaScript, TypeScript \
+Featured playlists: `React.js Tutorial for Beginners`, `React.js Hooks Tutorial`, `React.js Redux Tutorial`, `React.js Storybook Tutorial`, `React.js Formik Tutorial`, `Practical React.js`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxxWvA615Onz5us60u38fgK3eq-fnQVDmeW_4Rr=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FluxWithRanSegall)
+
+[**Flux**](https://www.youtube.com/c/FluxWithRanSegall) \
+Content about: Web design, Design, Freelancing \
+Featured playlists: `Free Web Design Course 2020`, `Portfolios: Case Studies & Reviews`, `How To Start Freelancing`, `FREELANCE TIPS: How to find clients & grow your business`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx86XmyIg-0icwveEKd2Iz8VEFyhGGhJLpJ2Q6l=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC4QVZ552Q-dXIdMSc2cewcA)
+
+[**CSS Animation**](https://www.youtube.com/channel/UC4QVZ552Q-dXIdMSc2cewcA) \
+Content about: CSS \
+Featured playlists: `Full Course: Level Up Your CSS Animation Skills`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx_1d5dpZETr6oOBANDbkDtqp9h4n9RWCXeKrWM0Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/JavaScriptMastery)
+
+[**JavaScript Mastery**](https://www.youtube.com/c/JavaScriptMastery) \
+Content about: React.js, JavaScript \
+Featured playlists: `Learn JavaScript`, `Master React.js by Building Real Projects`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyIKkD9fGTB3olrvHQY8wNXGtHDEKp6tcmXr84=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Omatum)
+
+[**Omatum**](https://www.youtube.com/c/Omatum) \
+Content about: Web development, Design \
+Featured playlists: `Live Omatum Bucks Software Project Streams`, `Software Project: OmatumBucks`, `Live Omatum.com Website Development Project Streams`, `Uncut Live Streams`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyShhB_eKIuZPIDtUJenOMwRVk4J0mGrDrD2irYk1k=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/PunitChawla)
+
+[**Punit Chawla**](https://www.youtube.com/c/PunitChawla) \
+Content about: Web design, Adobe XD \
+Featured playlists: `Design Weekly`, `Design Essentials`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzj9Wp5NIzuIcB3DhQ5jgunW5b98DCWGeSv2TZptQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DevEd)
+
+[**Dev Ed**](https://www.youtube.com/c/DevEd) \
+Content about: Web design, JavaScript, React.js \
+Featured playlists: `Web Design Tutorial (UI & UX)`, `React.js Tutorial For Beginners`, `CSS Tutorials`, `JavaScript tutorials playlists`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyC278MnqvWj6nYJAUT6E3tzxrZ03-CRsIbnDQIwA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DesignCourse)
+
+[**DesignCourse**](https://www.youtube.com/c/DesignCourse) \
+Content about: Web design, Design, UI/UX, Adobe XD \
+Featured playlists: `Illustrator Tutorials`, `Adobe XD Tutorials`, `Photoshop Tutorials`, `LATEST DEV TUTS`, `LATEST DESIGN TUTS`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJw9rDLrDqNFCAsI1Umf8K3b87ORxhmEC9AL6opQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RedStapler_channel)
+
+[**Red Stapler**](https://www.youtube.com/c/RedStapler_channel) \
+Content about: JavaScript, CSS \
+Featured playlists: `CSS Tips and Tricks`, `some playlists about JavaScript libraries`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxVs1XkkiWUb-wFs4CqKWjVu5kJL_PEea7l8AJS=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A)
+
+[**Brian Design**](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A) \
+Content about: Frontend, React.js, Web design \
+Featured playlists: `React.js Tutorials`, `HTML, CSS & JavaScript Tutorials`, `videos of web design (UI/UX)`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwAle-GCzklNOEXi8fYqoby3omwcM0dV_EK008LGg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AngularFirebase)
+
+[**Fireship**](https://www.youtube.com/c/Fireship) \
+Content about: JavaScript, Flutter, Firebase \
+Featured playlists: `100 Seconds of Code`, `Angular Essentials`, `Flutter`, `Frontend Mini Projects`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxb_vf1eP6r278YghZIE53tMLh13RCKU6ZSuoTt6w=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Academind)
+
+[**Academind**](https://www.youtube.com/c/Academind) \
+Content about: Frontend, JavaScript, Web design \
+Featured playlists: `React.js + Redux Basics`, `Vue.js 2 - Getting Started`, `Amazon Web Services Basics`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyTPRJfE-AcekIPpfXRf3fxAMe6Nkobv-oHCgoV=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FlorinPop)
+
+[**Florin Pop**](https://www.youtube.com/c/FlorinPop) \
+Content about: JavaScript, CSS \
+Featured playlists: `Learn JavaScript`, `Learn React.js`, `Learn CSS`, `JavaScript Array Methods`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwuTmBKZD9sTE28x5qOHN_vRCPCP528iQeVqauh=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/LevelUpTuts)
+
+[**LevelUpTuts**](https://www.youtube.com/c/LevelUpTuts) \
+Content about: Frontend, Web design, CMS \
+Featured playlists: `Design Tutorials playlists`, `CMS Tutorials playlists`, `HTML & CSS Tutorials`, `React.js videos`, `and more!`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwXxITlfxKmPX2h2OkLKwxzR-OoCLCxkKmf1Ugs=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/learncodeacademy)
+
+[**LearnCode.academy**](https://www.youtube.com/c/learncodeacademy) \
+Content about: JavaScript, JavaScript frameworks \
+Featured playlists: `JavaScript Tutorial for Beginners`, `React.js, Angular and Vue.js playlists`, `MEAN Stack Tutorials`, `jQuery Tutorial for Beginners`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz7NRo1YgYd8NZDAIglqEPPp82Vf3vXwHeyIaUx=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RawCoding)
+
+[**Raw Coding**](https://www.youtube.com/c/RawCoding) \
+Content about: ASP.NET, .NET \
+Featured playlists: `Modern Web Development Series`, `Vue.js Beginner Guide with ASP.NET Core`, `ASP.NET Core Tutorials`, `a lot more .NET tutorials!`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxuVxCsvMR6SMjZPTk-JBRuI6kX9rUaAfkSM0o7BA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LayoutLand)
+
+[**Layout Land**](https://www.youtube.com/c/LayoutLand) \
+Content about: CSS \
+Featured playlists: `CSS theoretical and practical videos`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyWnmk6Ql70o3P-x2eHIR01SiiYamhspnAN04zhWA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TheNetNinja)
+
+[**The Net Ninja**](https://www.youtube.com/c/TheNetNinja) \
+Content about: Frontend, Frameworks \
+Featured playlists: `Flutter Tutorial for Beginners`, `React.js and React Native playlists`, `a lot of JavaScript playlists, including JavaScript frameworks`, `GraphQL Tutorial`, `many, many more!`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwEYMLm54q5CX7NwBsUrETHMZvMca9tp-3vxrorBA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/kepowob)
+
+[**Kevin Powell**](https://www.youtube.com/kepowob) \
+Content about: CSS \
+Featured playlists: `CSS Grid videos`, `Flexbox basics`, `Responsive CSS tutorials`, `CSS animation`, `many more CSS video tutorials!`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyYBq2Mid0yyblUOq4vnXB3KTfCaoWgghQJ9WEcBw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/hswolff)
+
+[**Harry Wolff**](https://www.youtube.com/c/hswolff) \
+Content about: React.js, JavaScript \
+Featured playlists: `React Tutorials`, `Building a React Native App`, `JavaScript Tutorials`, `TypeScript playlist`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxSW9SqAjU_Q4ZXAXfqmGblSkFkUSOMUAnLvK5_mw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HiteshChoudharydotcom)
+
+[**Hitesh Choudhary**](https://www.youtube.com/c/HiteshChoudharydotcom) \
+Content about: Frontend \
+Featured playlists: `JavaScript course`, `Docker for Beginners`, `MongoDB and Mocha`, `Vue JS Crash Course`, `a lot more of playlists and videos`.
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxNH7UVf0iZB1vbfP-n_r4vnuWpVlzRY5eKoJqeyw"/>](https://www.youtube.com/c/DevTipsForDesigners/)
+
+[**DevTips**](https://www.youtube.com/c/DevTipsForDesigners/) \
+Content about: JavaScript, CSS and CSS Preprocessors, Next.js \
+Featured playlists: `CSS Animations Series`, `Learn jQuery in 15 Minutes`, `Webflow From Scratch`, `Regular Expressions Series`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwBtKw7erVLtS31HvYvlsqSZ5tPti-kxeJNjEebiQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+
+[**Online Tutorials**](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) \
+Content about: HTML, CSS, JS, Animations, Responsive Web Designs \
+Featured playlists: `Css Animation Effects`, `Responsive Website Design from Scratch`, `Css Button Hover Effect`, `Parallax Effect`, `Css Tutorials` `and many more...`
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzLwNQ4KJb8OhN-K5uBdeSwj2P-qXQJ6GsxJkLvkw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Bitfumes/)
+
+[**Bitfumes**](https://www.youtube.com/c/Bitfumes/) \
+Content about: JavaScript, NextJs, NuxtJs, VueJs, ReactJs, SvelteJs, CSS and CSS Preprocessors, Laravel \
+Featured playlists: `Vuejs`, `SvelteJs`, `Laravel Livewire Full Course`, `Learn to use Nuxt.js`, `ReactJS Basics`, `Laravel PHP Framework Tutorial - Full Course 6.5 Hours (2020)`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzlhhukYsdgVeuIspbug5SNo_254oqP9ZyrY2E0=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+
+[**Web Dev Simplified**](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) \
+Content about: Web development in general, JavaScript, React, CSS \
+Featured playlists: `Small projects`, `Who Wants To Be A Megabit (Trivia Game)`, `CSS Tutorials`, `Web App Security/Authentication`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjCNjtNKGVhvNY9Thj60vx_mgsd5CvPprH6HWBbIQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ebenezerdon/)
+
+[**Ebenezer Don**](https://www.youtube.com/c/ebenezerdon/) \
+Content about: HTML, CSS, JavaScript, Firebase, FastAPI, TypeScript \
+Featured playlists: `Getting started with Web development`, `Version control`, `Frontend database management`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnifQad7zR3DCS016MMooLiTYWgludmhhy1o9rABmj8=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/bayanbennett)
+
+[**Bayan Bennett**](https://www.youtube.com/bayanbennett) \
+Content about: JavaScript, TypeScript, HTML, CSS \
+Featured playlists: `DevLogs`, `How to JavaScript #shorts`, `Code Reviews`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQ1oqKIj6ngUGE7NmB2cHzjqpLMu1RBdh_hlc9I-Q=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/AniaKub%C3%B3w/featured)
+
+[**Code with Ania Kubów**](https://www.youtube.com/c/AniaKub%C3%B3w/featured) \
+Content about: JavaScript, React, React-Native, Next.js, Node.js, Express, GraphQL \
+Featured playlists: `JavaScript Game Walkthroughs`, `Clones`, `Blockchain`, `JavaScript inbuilt methods`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLTJ0chZDvUfej-9AQi2HoKOzl6v-la1EIiZRQP2=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
+
+[**LearnWebCode**](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ) \
+Content about: CSS, JavaScript, WordPress, Web Development \
+Featured playlists: `Wordpress theme development`, `Learn CSS`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-fB-c8gczS81r-VBWgzndcSZgd1zGA2QcYfACHMg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TraversyMedia)
+
+[**Traversy Media**](https://www.youtube.com/c/TraversyMedia) \
+Content about: Javascript, CSS, HTML, Vue.js, React.js, Tailwind CSS, MongoDB, Express.js, Web development \
+Featured playlists: `Vue.js crash course`, `React.js crash course`, `Semantic UI in 60 minutes`, `Full Stack Vue.js, Express and MongoDB`, `Async JS crash course`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/APkrFKayeWNVehgthRdZYIzWAQMjF9c3jndNKh07l_Kx=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Frankslaboratory)
+
+[**Franks laboratory**](https://www.youtube.com/@Frankslaboratory) \
+Content about: CSS, HTML, JavaScript \
+Featured playlists: `JavaScript Game Development Masterclass 2023`, `Particle Effects Masterclass`, `CSS3 Experiments`, `Game Development with Vanilla JavaScript`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/v2XEQ_UHgHjH04ZwIT6kKhrmrcRU5ojVMX1HL5HdgpabX2p95_rDewIHGc3ZkjRFbxTcgYs3bg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@TheAlexLichter)
+
+[**TheAlexLichter**](https://www.youtube.com/@TheAlexLichter) \
+Content about: Nuxt, Vue, TypeScript \
+Featured playlists: `Nuxt Performance In Depth`, `Vue 3`, `Nuxt 3`. \
+<br/>
+
+### Backend
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwaVSApA3XTqXzAzHlt-4Rji44iwWdY49_d1RqxdDw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/swyxTV)
+
+[**swyx**](https://www.youtube.com/c/swyxTV) \
+Content about: Web development in general, serverless \
+Featured playlists: `AWS Amplify`. \
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwIiXF7RJb-MvjLdBMdvpxRNrnXdKgWNmrUzsuamw=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HusseinNasser-software-engineering)
+
+[**Hussein Nasser**](https://www.youtube.com/c/HusseinNasser-software-engineering) \
+Content about: Databases, Networking, Backend Development, Security, Protocols, Concepts \
+Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message Queues & PubSub Systems`, `Proxies`, `many more video tutorials`.
+<br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJWZhcYZ5Mr0HuK-Zyd2v1cJ27OvlwSDlZ0aNLOE=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ThePrimeagen)
+
+[**ThePrimeagen**](https://www.youtube.com/@ThePrimeagen) \
+Content about: Backend Development, Concepts, Optimization techniques, Tools, Languages, Microservices \
+Featured playlists: `Rust For TypeScript Devs`, `Performance`, `Vim As Your Editor`, `Building Great Tools`.
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/K4VErvOGTHjQgK9CJ6pKC2SQqEc-fM1ucyUXW-Bz8dBbsCoq-PHRmiVEEHArIKPmsyDhHtZ5me4=s800-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/@dreamsofcode)
+
+[**Dreams of Code**](https://www.youtube.com/@dreamsofcode) \
+Content about: Productivity tools \
+Featured playlists: `Neovim`, `Rust`, `Node.js`. \
+<br />
+
+[🔼 Back to the top](#contents)
+
 
 ## Programming in general
 
@@ -368,246 +601,6 @@ Featured playlists: `Linux x64 Assembly`, `AES Encryption`, `x64 Assembly Multit
 
 [🔼 Back to the top](#contents)
 
-## Web Development
-
-Web development includes frontend backend development topics. You can also find freelancing as a web developer and other related stuff.
-
-### Frontend
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx1mDLn8-L1yG8jIO2yGHvJzqnMZ03dsc3PbNqe=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
-
-[**Codevolution**](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) \
-Content about: React.js, JavaScript, TypeScript \
-Featured playlists: `React.js Tutorial for Beginners`, `React.js Hooks Tutorial`, `React.js Redux Tutorial`, `React.js Storybook Tutorial`, `React.js Formik Tutorial`, `Practical React.js`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxxWvA615Onz5us60u38fgK3eq-fnQVDmeW_4Rr=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FluxWithRanSegall)
-
-[**Flux**](https://www.youtube.com/c/FluxWithRanSegall) \
-Content about: Web design, Design, Freelancing \
-Featured playlists: `Free Web Design Course 2020`, `Portfolios: Case Studies & Reviews`, `How To Start Freelancing`, `FREELANCE TIPS: How to find clients & grow your business`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx86XmyIg-0icwveEKd2Iz8VEFyhGGhJLpJ2Q6l=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC4QVZ552Q-dXIdMSc2cewcA)
-
-[**CSS Animation**](https://www.youtube.com/channel/UC4QVZ552Q-dXIdMSc2cewcA) \
-Content about: CSS \
-Featured playlists: `Full Course: Level Up Your CSS Animation Skills`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx_1d5dpZETr6oOBANDbkDtqp9h4n9RWCXeKrWM0Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/JavaScriptMastery)
-
-[**JavaScript Mastery**](https://www.youtube.com/c/JavaScriptMastery) \
-Content about: React.js, JavaScript \
-Featured playlists: `Learn JavaScript`, `Master React.js by Building Real Projects`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyIKkD9fGTB3olrvHQY8wNXGtHDEKp6tcmXr84=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Omatum)
-
-[**Omatum**](https://www.youtube.com/c/Omatum) \
-Content about: Web development, Design \
-Featured playlists: `Live Omatum Bucks Software Project Streams`, `Software Project: OmatumBucks`, `Live Omatum.com Website Development Project Streams`, `Uncut Live Streams`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyShhB_eKIuZPIDtUJenOMwRVk4J0mGrDrD2irYk1k=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/PunitChawla)
-
-[**Punit Chawla**](https://www.youtube.com/c/PunitChawla) \
-Content about: Web design, Adobe XD \
-Featured playlists: `Design Weekly`, `Design Essentials`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzj9Wp5NIzuIcB3DhQ5jgunW5b98DCWGeSv2TZptQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DevEd)
-
-[**Dev Ed**](https://www.youtube.com/c/DevEd) \
-Content about: Web design, JavaScript, React.js \
-Featured playlists: `Web Design Tutorial (UI & UX)`, `React.js Tutorial For Beginners`, `CSS Tutorials`, `JavaScript tutorials playlists`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyC278MnqvWj6nYJAUT6E3tzxrZ03-CRsIbnDQIwA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DesignCourse)
-
-[**DesignCourse**](https://www.youtube.com/c/DesignCourse) \
-Content about: Web design, Design, UI/UX, Adobe XD \
-Featured playlists: `Illustrator Tutorials`, `Adobe XD Tutorials`, `Photoshop Tutorials`, `LATEST DEV TUTS`, `LATEST DESIGN TUTS`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJw9rDLrDqNFCAsI1Umf8K3b87ORxhmEC9AL6opQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RedStapler_channel)
-
-[**Red Stapler**](https://www.youtube.com/c/RedStapler_channel) \
-Content about: JavaScript, CSS \
-Featured playlists: `CSS Tips and Tricks`, `some playlists about JavaScript libraries`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxVs1XkkiWUb-wFs4CqKWjVu5kJL_PEea7l8AJS=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A)
-
-[**Brian Design**](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A) \
-Content about: Frontend, React.js, Web design \
-Featured playlists: `React.js Tutorials`, `HTML, CSS & JavaScript Tutorials`, `videos of web design (UI/UX)`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwAle-GCzklNOEXi8fYqoby3omwcM0dV_EK008LGg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/AngularFirebase)
-
-[**Fireship**](https://www.youtube.com/c/Fireship) \
-Content about: JavaScript, Flutter, Firebase \
-Featured playlists: `100 Seconds of Code`, `Angular Essentials`, `Flutter`, `Frontend Mini Projects`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxb_vf1eP6r278YghZIE53tMLh13RCKU6ZSuoTt6w=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Academind)
-
-[**Academind**](https://www.youtube.com/c/Academind) \
-Content about: Frontend, JavaScript, Web design \
-Featured playlists: `React.js + Redux Basics`, `Vue.js 2 - Getting Started`, `Amazon Web Services Basics`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyTPRJfE-AcekIPpfXRf3fxAMe6Nkobv-oHCgoV=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/FlorinPop)
-
-[**Florin Pop**](https://www.youtube.com/c/FlorinPop) \
-Content about: JavaScript, CSS \
-Featured playlists: `Learn JavaScript`, `Learn React.js`, `Learn CSS`, `JavaScript Array Methods`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwuTmBKZD9sTE28x5qOHN_vRCPCP528iQeVqauh=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/LevelUpTuts)
-
-[**LevelUpTuts**](https://www.youtube.com/c/LevelUpTuts) \
-Content about: Frontend, Web design, CMS \
-Featured playlists: `Design Tutorials playlists`, `CMS Tutorials playlists`, `HTML & CSS Tutorials`, `React.js videos`, `and more!`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwXxITlfxKmPX2h2OkLKwxzR-OoCLCxkKmf1Ugs=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/learncodeacademy)
-
-[**LearnCode.academy**](https://www.youtube.com/c/learncodeacademy) \
-Content about: JavaScript, JavaScript frameworks \
-Featured playlists: `JavaScript Tutorial for Beginners`, `React.js, Angular and Vue.js playlists`, `MEAN Stack Tutorials`, `jQuery Tutorial for Beginners`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz7NRo1YgYd8NZDAIglqEPPp82Vf3vXwHeyIaUx=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RawCoding)
-
-[**Raw Coding**](https://www.youtube.com/c/RawCoding) \
-Content about: ASP.NET, .NET \
-Featured playlists: `Modern Web Development Series`, `Vue.js Beginner Guide with ASP.NET Core`, `ASP.NET Core Tutorials`, `a lot more .NET tutorials!`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxuVxCsvMR6SMjZPTk-JBRuI6kX9rUaAfkSM0o7BA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LayoutLand)
-
-[**Layout Land**](https://www.youtube.com/c/LayoutLand) \
-Content about: CSS \
-Featured playlists: `CSS theoretical and practical videos`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyWnmk6Ql70o3P-x2eHIR01SiiYamhspnAN04zhWA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TheNetNinja)
-
-[**The Net Ninja**](https://www.youtube.com/c/TheNetNinja) \
-Content about: Frontend, Frameworks \
-Featured playlists: `Flutter Tutorial for Beginners`, `React.js and React Native playlists`, `a lot of JavaScript playlists, including JavaScript frameworks`, `GraphQL Tutorial`, `many, many more!`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwEYMLm54q5CX7NwBsUrETHMZvMca9tp-3vxrorBA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/kepowob)
-
-[**Kevin Powell**](https://www.youtube.com/kepowob) \
-Content about: CSS \
-Featured playlists: `CSS Grid videos`, `Flexbox basics`, `Responsive CSS tutorials`, `CSS animation`, `many more CSS video tutorials!`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyYBq2Mid0yyblUOq4vnXB3KTfCaoWgghQJ9WEcBw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/hswolff)
-
-[**Harry Wolff**](https://www.youtube.com/c/hswolff) \
-Content about: React.js, JavaScript \
-Featured playlists: `React Tutorials`, `Building a React Native App`, `JavaScript Tutorials`, `TypeScript playlist`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxSW9SqAjU_Q4ZXAXfqmGblSkFkUSOMUAnLvK5_mw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HiteshChoudharydotcom)
-
-[**Hitesh Choudhary**](https://www.youtube.com/c/HiteshChoudharydotcom) \
-Content about: Frontend \
-Featured playlists: `JavaScript course`, `Docker for Beginners`, `MongoDB and Mocha`, `Vue JS Crash Course`, `a lot more of playlists and videos`.
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxNH7UVf0iZB1vbfP-n_r4vnuWpVlzRY5eKoJqeyw"/>](https://www.youtube.com/c/DevTipsForDesigners/)
-
-[**DevTips**](https://www.youtube.com/c/DevTipsForDesigners/) \
-Content about: JavaScript, CSS and CSS Preprocessors, Next.js \
-Featured playlists: `CSS Animations Series`, `Learn jQuery in 15 Minutes`, `Webflow From Scratch`, `Regular Expressions Series`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwBtKw7erVLtS31HvYvlsqSZ5tPti-kxeJNjEebiQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
-
-[**Online Tutorials**](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) \
-Content about: HTML, CSS, JS, Animations, Responsive Web Designs \
-Featured playlists: `Css Animation Effects`, `Responsive Website Design from Scratch`, `Css Button Hover Effect`, `Parallax Effect`, `Css Tutorials` `and many more...`
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzLwNQ4KJb8OhN-K5uBdeSwj2P-qXQJ6GsxJkLvkw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Bitfumes/)
-
-[**Bitfumes**](https://www.youtube.com/c/Bitfumes/) \
-Content about: JavaScript, NextJs, NuxtJs, VueJs, ReactJs, SvelteJs, CSS and CSS Preprocessors, Laravel \
-Featured playlists: `Vuejs`, `SvelteJs`, `Laravel Livewire Full Course`, `Learn to use Nuxt.js`, `ReactJS Basics`, `Laravel PHP Framework Tutorial - Full Course 6.5 Hours (2020)`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzlhhukYsdgVeuIspbug5SNo_254oqP9ZyrY2E0=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
-
-[**Web Dev Simplified**](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) \
-Content about: Web development in general, JavaScript, React, CSS \
-Featured playlists: `Small projects`, `Who Wants To Be A Megabit (Trivia Game)`, `CSS Tutorials`, `Web App Security/Authentication`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjCNjtNKGVhvNY9Thj60vx_mgsd5CvPprH6HWBbIQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ebenezerdon/)
-
-[**Ebenezer Don**](https://www.youtube.com/c/ebenezerdon/) \
-Content about: HTML, CSS, JavaScript, Firebase, FastAPI, TypeScript \
-Featured playlists: `Getting started with Web development`, `Version control`, `Frontend database management`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnifQad7zR3DCS016MMooLiTYWgludmhhy1o9rABmj8=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/bayanbennett)
-
-[**Bayan Bennett**](https://www.youtube.com/bayanbennett) \
-Content about: JavaScript, TypeScript, HTML, CSS \
-Featured playlists: `DevLogs`, `How to JavaScript #shorts`, `Code Reviews`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLQ1oqKIj6ngUGE7NmB2cHzjqpLMu1RBdh_hlc9I-Q=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/AniaKub%C3%B3w/featured)
-
-[**Code with Ania Kubów**](https://www.youtube.com/c/AniaKub%C3%B3w/featured) \
-Content about: JavaScript, React, React-Native, Next.js, Node.js, Express, GraphQL \
-Featured playlists: `JavaScript Game Walkthroughs`, `Clones`, `Blockchain`, `JavaScript inbuilt methods`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLTJ0chZDvUfej-9AQi2HoKOzl6v-la1EIiZRQP2=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
-
-[**LearnWebCode**](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ) \
-Content about: CSS, JavaScript, WordPress, Web Development \
-Featured playlists: `Wordpress theme development`, `Learn CSS`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-fB-c8gczS81r-VBWgzndcSZgd1zGA2QcYfACHMg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TraversyMedia)
-
-[**Traversy Media**](https://www.youtube.com/c/TraversyMedia) \
-Content about: Javascript, CSS, HTML, Vue.js, React.js, Tailwind CSS, MongoDB, Express.js, Web development \
-Featured playlists: `Vue.js crash course`, `React.js crash course`, `Semantic UI in 60 minutes`, `Full Stack Vue.js, Express and MongoDB`, `Async JS crash course`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/APkrFKayeWNVehgthRdZYIzWAQMjF9c3jndNKh07l_Kx=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Frankslaboratory)
-
-[**Franks laboratory**](https://www.youtube.com/@Frankslaboratory) \
-Content about: CSS, HTML, JavaScript \
-Featured playlists: `JavaScript Game Development Masterclass 2023`, `Particle Effects Masterclass`, `CSS3 Experiments`, `Game Development with Vanilla JavaScript`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/v2XEQ_UHgHjH04ZwIT6kKhrmrcRU5ojVMX1HL5HdgpabX2p95_rDewIHGc3ZkjRFbxTcgYs3bg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@TheAlexLichter)
-
-[**TheAlexLichter**](https://www.youtube.com/@TheAlexLichter) \
-Content about: Nuxt, Vue, TypeScript \
-Featured playlists: `Nuxt Performance In Depth`, `Vue 3`, `Nuxt 3`. \
-<br/>
-
-### Backend
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwaVSApA3XTqXzAzHlt-4Rji44iwWdY49_d1RqxdDw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/swyxTV)
-
-[**swyx**](https://www.youtube.com/c/swyxTV) \
-Content about: Web development in general, serverless \
-Featured playlists: `AWS Amplify`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwIiXF7RJb-MvjLdBMdvpxRNrnXdKgWNmrUzsuamw=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HusseinNasser-software-engineering)
-
-[**Hussein Nasser**](https://www.youtube.com/c/HusseinNasser-software-engineering) \
-Content about: Databases, Networking, Backend Development, Security, Protocols, Concepts \
-Featured playlists: `High Availability`, `Python by Example`, `HTTP/2`, `Message Queues & PubSub Systems`, `Proxies`, `many more video tutorials`.
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJWZhcYZ5Mr0HuK-Zyd2v1cJ27OvlwSDlZ0aNLOE=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ThePrimeagen)
-
-[**ThePrimeagen**](https://www.youtube.com/@ThePrimeagen) \
-Content about: Backend Development, Concepts, Optimization techniques, Tools, Languages, Microservices \
-Featured playlists: `Rust For TypeScript Devs`, `Performance`, `Vim As Your Editor`, `Building Great Tools`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/K4VErvOGTHjQgK9CJ6pKC2SQqEc-fM1ucyUXW-Bz8dBbsCoq-PHRmiVEEHArIKPmsyDhHtZ5me4=s800-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/@dreamsofcode)
-
-[**Dreams of Code**](https://www.youtube.com/@dreamsofcode) \
-Content about: Productivity tools \
-Featured playlists: `Neovim`, `Rust`, `Node.js`. \
-<br />
-
-[🔼 Back to the top](#contents)
 
 ## Computer Science
 
@@ -841,236 +834,6 @@ Featured playlists: `Python Programming for Finance`, `Machine Learning with Pyt
 
 [🔼 Back to the top](#contents)
 
-## DevOps
-
-DevOps is combination of software **dev**elopment and IT **op**eration**s**. The topics may include Docker, Kubernetes, System Design, Kafka, Ansible, Cassandra, Zookeeper, Hadoop, Cloud (AWS, GCP, Azure) etc.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/kXyR8Aa32KXnZWVdkAFUYK5utM752kSJPHGtYiJ4ev6BmdFHi-dl1EFbI3TogmHBjszwc7m2=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TechWorldwithNana)
-
-[**TechWorld with Nana**](https://www.youtube.com/c/TechWorldwithNana) \
-Content about: GitOps, Continuous Integration, Continuous Delivery, IaC, Kubernetes, Docker \
-Featured playlists: `DevOps Concepts explained`, `Infrastructure as Code (IaC) Tutorials`, `DevOps Bootcamp`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/9WbSAVETaM2sRQQT1fDcA6OyeXbuC9zMMucWNxbVgPvM_pLIeB9UA86OA2z8euPOcdTMZS5I=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/KodeKloud)
-
-[**KodeKloud**](https://www.youtube.com/c/KodeKloud) \
-Content about: Kubernetes, Docker, Terraform \
-Featured playlists: `DevOps Pre-requisites`, `Docker for the Absolute Beginners`, `Kubernetes for the Absolute Beginners`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9k7jRGbKljdwha4M3MHbR0ja9bPDx_hey9RLZtbQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsJourney)
-
-[**DevOps Journey**](https://www.youtube.com/c/DevOpsJourney) \
-Content about: DevOps, Docker, Kubernetes, Ansible \
-Featured playlists: `Complete Docker Course`, `Complete Ansible Course`, `Complete Vagrant Course`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/0YP74Y3JRONGGT-ceUZicHmukEFthR0VvUM0rFFEjUIIr2-EUp8ZZoixMh6l7bbcA0oh4Wpamg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DevOpsToolkit)
-
-[**DevOps Toolkit**](https://www.youtube.com/c/DevOpsToolkit) \
-Content about: GitOps, Docker, Kubernetes, Rancher, AWS \
-Featured playlists: `Kubernetes`, `CI/CD`, `This vs. that`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9RMxhpGoX91C3oApVImrmahRpDeVzrijueTAbUaw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/wenkatn-justmeandopensource)
-
-[**Just me and Opensource**](https://www.youtube.com/c/wenkatn-justmeandopensource) \
-Content about: Kubernetes, AWS, Google Cloud Platform, Docker, Linux containers, Jenkins, Databases (MySQL/MongoDB/Postgres), Elasticsearch Stack, Red Hat, Devops \
-Featured playlists: `Kubernetes Provisioning`, `Learn AWS`, `Google Cloud Platform for Beginners`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8snSVp86PRqR-k2MW4UBPLbd6n7AoIB-U5eegrRg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/TechPrimers)
-
-[**Tech Primers**](https://www.youtube.com/c/TechPrimers) \
-Content about: DevOps Cloud, Architecture, Tips & tricks \
-Featured playlists: `System Design Primer`, `AWS primer`, `Google Cloud Primer`, `Sprint Cloud Primer`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8SnxBjJvLOizFDmU39h2I-o1vUjZ1qrWd28VmDEA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DefogTech)
-
-[**Defog Tech**](https://www.youtube.com/c/DefogTech) \
-Content about: Java concurrency, Distributed systems, System design, Microservice etc. \
-Featured playlists: `Microservices`, `Distributed Systems`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-7nHRxTUEZFZEpfH4LKXxqiP9HObY3WL0SZhzW6g=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw)
-
-[**CodeOpinion**](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw) \
-Content about: Software Architecture & Design, Messaging, CQRS, Event Sourcing and HTTP APIs \
-Featured playlists: `Architecture`, `Software Design`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/gw8D7HShOaffiUyIpOFg_rOLqVH4xsi-2X34U7bRc5gu0Zl83iKDwcntGH6bxvS9lJWsJLPQ=s800-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/@AntonPutra)
-
-[**Anton Putra**](https://www.youtube.com/@AntonPutra) \
-Content about: High-Quality DevOps Tutorials \
-Featured playlists: `Terraform Tutorial for Beginners`, `Prometheus (Thanos) Tutorials`, `Amazon EKS`, `100 Seconds of Code`. \
-<br />
-
-[🔼 Back to the top](#contents)
-
-## Game Development
-
-In this section, you can find YouTubers who teach about game development programs (Unity, Unreal Engine, etc.), core concepts in different programming languages (JavaScript, HTML5, Java) and art/design creation, 3D modelling and much more.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx6TRb2UtlFRUrc1y8izsVdh5KgI1kYYBdZTwigIQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TheCharmefis)
-
-[**Dani Krossing**](https://www.youtube.com/c/TheCharmefis) \
-Content about: Unity, C# \
-Featured playlists: `Create a 2D Game In Unity`, `Unity for Beginners!`, `Learn Unity Basics!`, `C# Tutorials`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxHXU1KlWM0ZLoRVEhO0OkVoj7YGndylnAZYkTxdg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ScriptersWar)
-
-[**ScriptersWar**](https://www.youtube.com/c/ScriptersWar) \
-Content about: JavaScript, HTML5 \
-Featured playlists: `How to Make HTML5 Games: JavaScript Tutorial for Beginners JS Guide`, `a lot more videos`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwlfHgIE-uCnJ3F3kWlJUJwXwGaYu-lDiTrt56GZQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Brackeys)
-
-[**Brackeys**](https://www.youtube.com/c/Brackeys) \
-Content about: Unity, C#, Game design \
-Featured playlists: `How to make a 2D Platformer - Unity Course`, `Making a Multiplayer FPS in Unity`, `How to program in C# - Beginner Course`, `Unity 2D Tutorials`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxjaeTFC1M-YAEpgSHasXcojzmv3vbpcOdojtjlug=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/JonasTyroller)
-
-[**Jonas Tyroller**](https://www.youtube.com/c/JonasTyroller) \
-Content about: GameMaker Studio, Tips and planning playlists \
-Featured playlists: `Will You Snail? - Full Development.`, `Game Dev Tips`, `How To Get Started With Game Development.`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJytTySK0c9M6APiuFRUiyGrBVToA1aAUse95O6ZjQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RealTutsGML)
-
-[**RealTutsGML**](https://www.youtube.com/c/RealTutsGML) \
-Content about: Java, GameMaker Studio \
-Featured playlists: `Java Basic Programming`, `Cool Game Maker Tutorials`, `Beginner Java Game Development`, `Java Platform Game Programming`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzLVHrXv3qfNCv7Qu9LX7x92XuCnNu8p4pQMd2YXA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w)
-
-[**Mark Rise**](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w) \
-Content about: Game design, Animation \
-Featured playlists: `Geometric design playlists`, `Video Game Character Animation Course`, `After Effects Animation Tutorials`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy9BmXS6-TeuqUEXnhPWdZT_c-td6YEF1tbiN8lWw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ChrisCourses)
-
-[**Chris Courses**](https://www.youtube.com/c/ChrisCourses) \
-Content about: HTML5 Canvas, JavaScript \
-Featured playlists: `HTML5 Canvas Tutorials for Beginners | Become a Canvas Pro`, `other JavaScript-related videos`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxr-B_J2JaFQFAWAGI62RfHmCFVvt6rQocEeopqEw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Zenva)
-
-[**Zenva**](https://www.youtube.com/c/Zenva) \
-Content about: Unity, Unreal Engine, Godot \
-Featured playlists: `Master Unity Game Development`, `Unreal Game Development Mini-Degree`, `Godot Game Development Mini-Degree`, `a very lot more playlists about game development and design!`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx1f7O5nvI5mIBDN5I3siO-x_3nXdmNb-ncK4Uz=s288-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/MixandJam)
-
-[**Mix and Jam**](https://www.youtube.com/c/MixandJam) \
-Content about: Unity \
-Featured playlists: `Mix and Jam Recreations`, `Game Jams`, `RE Mix and Jam`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx2zjXrjENr6VU0xQnqHVrqitqoKsFIBGtEwOen8g=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/DaFluffyPotato)
-
-[**DaFluffyPotato**](https://www.youtube.com/c/DaFluffyPotato) \
-Content about: Pygame \
-Featured playlists: `Pygame Tutorial Series (beginner)`, `Pygame Tutorial Series (amateur)`, `Pygame Tutorial Series (advanced)`, `more Pygame videos!`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJw7ckfiEB4cBXQRTsWZ361ObFTWjU6wV91zxbVF=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ChiliTomatoNoodle)
-
-[**ChiliTomatoNoodle**](https://www.youtube.com/c/ChiliTomatoNoodle) \
-Content about: C++, DirextX, 3D \
-Featured playlists: `Beginner C++ Game Programming`, `Intermediate C++ Game Programming`, `Advanced C++ Game Programming`, `3D Programming Fundamentals`, `C++ 3D DirextX Programming`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzm-kDEnQuVh_KHGA1S7f7xe2d_dywIeLSjSm7PyC8=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ)
-
-[**GDQuest**](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) \
-Content about: GODOT \
-Featured playlists: `Godot 3 tutorials`, `3d Maze Game in Godot`, `Make Your First 2D Game with Godot`, `Godot - Beginner Game Creation Tutorials`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzoIjRlshuZqc2EyoOtY76mx1jOrnT_VE26BGFctg=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/uheartbeast)
-
-[**HeartBeast**](https://www.youtube.com/user/uheartbeast) \
-Content about: GODOT, 2D, GameMaker \
-Featured playlists: `Godot Engine Tutorials`, `Resource Based Inventory Tutorial in Godot`, `2D Hack-n-Slash Course (Complete Course)`, `GameMaker Platform Tutorials`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy1coScVH3_bUoljtyvGxH7jpeS73tNanRpBxHZ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/MethMethMethod)
-
-[**Meth Meth Method**](https://www.youtube.com/c/MethMethMethod) \
-Content about: JavaScript \
-Featured playlists: `Super Mario Bros in JavaScript`, `Creating a Tetris Online Multiplayer in Javascript`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnhzSBts9V7Ejj7f8uMAqqN8T0MsQ5kSYC5pq9tWaQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ClearCode)
-
-[**Clear Code**](https://www.youtube.com/c/ClearCode) \
-Content about: Python \
-Featured playlists: `Pygame Fundamentals`, `Creating Pong in Pygame`, `Learning pygame by making Flappy Bird`, `Google dinosaur runner in Godot`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLTGj8uIleXQsTjYxUTZELm9D4xNFrdoLrZChKCF=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCS2smVWjNGuRzD6HVWmlWwQ)
-
-[**The DevKing**](https://www.youtube.com/channel/UCS2smVWjNGuRzD6HVWmlWwQ) \
-Content about: game development, Robolox scripting \
-Featured playlists: `Robolox scripting`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwnC9ATEyVr8Mf-Vz3K1hAUMzPXjxz_rp2LZL6JVg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/TheChernoProject)
-
-[**The Cherno**](https://www.youtube.com/user/TheChernoProject) \
-Content about: C++, Game development \
-Featured playlists: `Game Engine`, `C++`, `OpenGL`, `3D game programming in java`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/fRuGUY-F28mPwio41AQwnvnikF2Yy3oFOWoBxK9Xlpri2QhGgCUmy3XoAkJgEGeBdNLaen6SkGo=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@acegikmo)
-
-[**Freya Holmér**](https://www.youtube.com/@acegikmo) \
-Content about: Math & Game Development \
-Featured playlists: `Math For Game Devs (2020)`, `Visual Explanations`, `Math For Game Devs (2022)`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_lUHZo6xn80BzbeDfyGhYdVCEQwPNtsHDGJ4irZmEwfsQ=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CodeParade)
-
-[**CodeParade**](https://www.youtube.com/@CodeParade) \
-Content about: Game Development with real projects \
-Featured playlists: `4D Golf`, `Hyperbolica`, `Fractals & Math`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_mXDNthuPdZjYoWO8sGF-WUR-CmR-vqkTk1LdVTEEHu1w=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@TheArtofCodeIsCool)
-
-[**CodeParade**](https://www.youtube.com/@TheArtofCodeIsCool) \
-Content about: Game Graphics, Shaders, Rays \
-Featured playlists: `Shader Coding`, `Fractals`, `Ray Marching`, `Unity Tutorials`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/r2h5eKhcZqWe84ySDJ5DNPnduRJYvjJwXiFba9y-7zawoH6FQKrrVLGphqpoKpNPsJYgxV5S2A=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Gdconf)
-
-[**GDC**](https://www.youtube.com/@Gdconf) \
-Content about: Conferences about inner functionality of top videogames \
-Featured playlists: `Narrative Talks`, `Design Talks`, `Programming Talks`, `Art and Graphic Design Talks`, `Game Music Talks`, `Animation Talks`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_mSwCYDJjUAaowHq3pVAk_T0v9ECCP02kzPIkCic96WiJE=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@jblow888)
-
-[**Jonathan Blow**](https://www.youtube.com/@jblow888) \
-Content about: Meta Game Development \
-Featured playlists: `Game Engine Programminmg`, `A Programming Language for Games`. \
-<br />
-
-[🔼 Back to the top](#contents)
-
-## Mobile Development
-
-In this section, you can learn how to build mobile applications from scratch that face consumers. Learn how to follow industry best practices. Learn Kotlin or Swift for native development in Android/iOS or learn technologies such as React Native and Flutter for cross-platform mobile development.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/mhup7lzHh_c9b55z0edX65ReN9iJmTF2JU7vMGER9LTOora-NnXtvZdtn_vJmTvW6-y97z0Y=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/PhilippLackner)
-
-[**Philipp Lackner**](https://www.youtube.com/c/PhilippLackner) \
-Content about: Android, Kotlin, Jetpack Compose \
-Featured playlists: `ANDROID FUNDAMENTALS FOR BEGINNERS`, `KOTLIN NEWBIE TO PRO`, `Jetpack Compose`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJx_F6rE_flskMStro3T2TQ_s-NAl9j2k6nIahoP=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/SimplifiedcodingNetOfficial)
-
-[**Simplified Coding**](https://www.youtube.com/c/SimplifiedcodingNetOfficial) \
-Content about: Android, Backend \
-Featured playlists: `PHP, MySQL and Firebase videos`, `Kotlin Programming Tutorial`, `more videos and playlists`.
-
-[🔼 Back to the top](#contents)
-
 ## Cybersecurity
 
 Learn how you can protect yourself from attackers or malicious software. Learn also how the hacks are made to know deeply what is going on inside them, with the ethical hacking tutorials.
@@ -1167,486 +930,6 @@ Featured playlists: `Game Hacking 100 - Game Hacking Course`, `C++ Pattern Scann
 
 [🔼 Back to the top](#contents)
 
-## Internet/networking
-
-Get awesome playlists and videos about both software and hardware to know how does the internet connection and networking works (beginner and advanced tutorials).
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzSYAPTPcWy0bRmuTwX_ZoSf5glAyJey9l3DVyeKA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NetVNbuitronghieu)
-
-[**Net VN**](https://www.youtube.com/c/NETVN82) \
-Content about: Internet, Networking, Command line, Hardware \
-Featured playlists: `A lot of router/modem playlists`, `Software management of internet connection and network videos`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyLZ561K6CUOujxHpRbMgK_lwD6WWELO6YwM2Bw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A)
-
-[**Network Direction**](https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A) \
-Content about: Networking \
-Featured playlists: `Network Direction`, `Network Fundamentals`, `Firewall and LAN videos`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxQ3fRhADkbhwzuqg1IdgIxpJBsmTpwPwEJ5yH4Jg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/NetworKingInc)
-
-[**NetworKing**](https://www.youtube.com/c/NetworKingInc) \
-Content about: Networking, CCNA \
-Featured playlists: `Full Series | 200-301 CCNA | Free Cisco Video Training 2020 | Networking Inc.`, `other networking videos`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz94lPJiSkw20P0-6TLSo4oz0Z_BQkhMiHBoZyF2w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/PowerCertAnimatedVideos)
-
-[**PowerCert Animated Videos**](https://www.youtube.com/c/PowerCertAnimatedVideos) \
-Content about: Networking hardware with other concepts with helpful the visuals. There is also a crash course on A+ and Net+. \
-Featured playlists: `Information Technology`, `CompTIA Certification`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy96DtZPu2EJwh5eXuSn6-ru4wz1C4xFTs8GBcwYA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ALLABOUTELECTRONICS)
-
-[**All About Electronics**](https://www.youtube.com/c/ALLABOUTELECTRONICS) \
-Content about: Electronics and Communication \
-Featured playlists: `BJT`, `Analog Electronics`, `Network Analysis`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_lhZ2iLWGak2w8ipVVQ92VnYOc0TBE-OYv9FP0yogg33A=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@cemaxecuter7783)
-
-[**cemaxecuter**](https://www.youtube.com/@cemaxecuter7783) \
-Content about: SDR, Linux \
-Featured playlists: `War Dragon`, `Raspberry Pi`, `WiFi IDS, monitoring, and incident response`, `and much more.`. \
-<br />
-
-[🔼 Back to the top](#contents)
-
-## Software in general
-
-YouTubers that focus their content in specific third-party softwares. These are not programming tutorials but tutorials on how to use and master certain applications.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyI_LJUCt0PppNpYDlfW4KTcpmBf73M3hWv0YxH=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/LearnGoogleSpreadsheets)
-
-[**Learn Google Spreadsheets**](https://www.youtube.com/c/LearnGoogleSpreadsheets) \
-Content about: Google Spreadsheets \
-Featured playlists: `Google Sheets - Fundamental Skills`, `Google Apps Scripts - Fundamental`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzKIt0dhdvc7FP-6HRlB-WClDG9geZOhC_eDaIYqw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/OnlineTrainingforEveryone)
-
-[**Online Training for Everyone**](https://www.youtube.com/c/OnlineTrainingforEveryone) \
-Content about: Excel, Office suite \
-Featured playlists: `Excel 2020 Tutorials`, `Advanced Excel Tutorials`, `Microsoft Visio Tutorials`, `Windows 10 Tutorials`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwY3ModHFJGHTdK25cpztQz8NPG8gFllfgWJEqvwA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Simonsezit)
-
-[**Simon Sez IT**](https://www.youtube.com/c/Simonsezit) \
-Content about: Office suite, Microsoft \
-Featured playlists: `Excel playlists`, `QuickBooks playlists`, `Power BI Tutorials`, `Microsoft Outlook 2019`, `more videos about Microsoft programs`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwDmz-Sqfl3nOecezetnZo7lxo2sSFGahLOY7dGKg=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TomScottGo)
-
-[**Tom Scott**](https://www.youtube.com/c/TomScottGo) \
-Content about: Theoretical videos \
-Featured playlists: `How To Build An App`, `The Basics (Code)`, `other science videos`. \
-<br />
-
-[🔼 Back to the top](#contents)
-
-## Operating Systems
-
-Includes videos and tutorials for the correct management and understanding of Windows, Linux, Mac and other operating systems. Learn about useful commands and settings to keep your OS up-to-date and secure.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyzXrRfkiVxobJ_1-ot6Nwbb-8hzmOInqGjQJReXQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/RibaLinux)
-
-[**Riba Linux**](https://www.youtube.com/c/RibaLinux) \
-Content about: Linux \
-Featured playlists: `Install and overview`, `Linux How-to`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJy8oFBuw6tSoDlY7bV6kK_97atCLWDgBH-pypW8dw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/MSFTWebCast)
-
-[**MSFT WebCast**](https://www.youtube.com/c/MSFTWebCast) \
-Content about: Windows \
-Featured playlists: `Windows Server Beginners Tutorials`, `Managing Networking services in Windows Server`, `Managing Active Directory Infrastructure`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/3aTiR8-i48HnwXZKBacKe_niYg1zmIH2BFv_OqQotxqu3eurYH64sKF2YITmj41Y1p5iPYdaLQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DistroTube/)
-
-[**DistroTube**](https://www.youtube.com/c/DistroTube/) \
-Content about: Linux, Emacs, CLI, Privacy in general.\
-Featured playlists: `Privacy & Security`, `The church of Emacs`, `The command line`, `The Arch way`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ET-B1I46Ca0OKID2_mYyGOjkLdEJ_WbTCaEtzc2nJ-zcn1A-NPh92nA19pD7vgtFj1FQ_EVzRA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA)
-
-[**Learn Linux TV**](https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA) \
-Content about: Linux Tutorials, Distribution reviews, Linux Guides \
-Featured playlists: `Hardware reviews`, `Linux essentials`, `Linux commands for beginners`. \
-<br />
-
-[🔼 Back to the top](#contents)
-
-## Hardware
-
-CPU's, motherboards, monitors, keyboards, mouses, PC's/Laptops and all about hardware. Modems and routers can also be found here, as well as the newest phones and other technological gadgets. Get recommendations and price/quality comparisons about these products.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwcYEZYVuVI4MejVHLNgPMLSWYzXmhTyVjgcweM=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TeachingTech)
-
-[**Teaching Tech**](https://www.youtube.com/c/TeachingTech) \
-Content about: Printing \
-Featured playlists: `3D printing for beginners`, `3D Printing`, `Ender playlists`, `Onshape 3D Modelling`, `Printer reviews playlists`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJwQoPNwqUbfu_y7o7GWaeZgX8ovoHSYuWfbiJLR8g=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/LinusTechTips)
-
-[**Linus Tech Tips**](https://www.youtube.com/c/LinusTechTips) \
-Content about: All hardware \
-Featured playlists: `Build Guides, Buyer's Guides, and Ultimate Guides`, `Computer Systems & All-in-Ones`, `CPU, Motherboard, Memory Videos`, `many more`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-fScLPO4kV3revBwVIkhHokXoDyfVl4FKPquTuyg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GamersNexus)
-
-[**Gamers Nexus**](https://www.youtube.com/c/GamersNexus) \
-Content about: All hardware \
-Featured playlists: `Hardware News`, `PC Case Reviews`, `Pre-Built Gaming PC Reviews`, `many more`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/JWC97n97fCcVa6uMCAC_XlKjo91rssPzawguIrehF9P3O3eWL70JXhLeuSa1uwShcEgTh7YjxQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Jayztwocents)
-
-[**JayzTwoCents**](https://www.youtube.com/c/Jayztwocents) \
-Content about: All hardware \
-Featured playlists: `PC Building`, `GPU`, `Custom Builds`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzuLlqZ7x3U3Nbdg8BuL0GGAkQh00S9Sh87UTUV_Q=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Educ8s)
-
-[**educ8s.tv**](https://www.youtube.com/c/Educ8s) \
-Content about: Arduino \
-Featured playlists: `Arduino Tutorials for Beginners`, `Raspberry Pi Tutorials for Beginners`, `a lot more Arduino tutorials/projects videos!`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/qgdI4gsBC6ofXFQF9WMxTrchUAtWleRBDJLWnhId8tSEa9vbgWWAGYGb875_FiZxAFjqscBq=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/greatscottlab)
-
-[**GreatScott!**](https://www.youtube.com/user/greatscottlab) \
-Content about: Raspberry Pi, 3D Printing, Electronics \
-Featured playlists: `3D Printing`, `DIY or Buy`, `Build your own Ambilight with the Raspberry Pi`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzlJaQx61gcwSaB_BuzUuGmiI760apf7T93lzoo=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/RaspberryPiBeginners)
-
-[**RaspberryPiIVBeginners**](https://www.youtube.com/user/RaspberryPiBeginners) \
-Content about: Raspberry Pi \
-Featured playlists: `Getting started with your Raspberry Pi`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/U__DRmlaSCOXd6DLbo0luGSwy3QcWZ2qn3mKiopA_pGAc1-2IulmKBxf61WiAX5BLb-7nMylng8=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/explainingcomputers)
-
-[**ExplainingComputers**](https://www.youtube.com/user/explainingcomputers) \
-Content about: Raspberry Pi, Electronics, Operation System \
-Featured playlists: `Artificial Intelligence`, `Pi Zero Projects`, `Migrating to Linux`, `many more`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu_MySAuuGYGYlGD62nLVgaZHGYFAMSTJh7D3YPIMQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ETAPRIME)
-
-[**ETA PRIME**](https://www.youtube.com/c/ETAPRIME) \
-Content about: Raspberry Pi, Electronics, Operation System, Single Board Computers, Gaming \
-Featured playlists: `Single Board Computer Reviews`, `Gaming on SBCs`, `many more`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJXg0un1rLvqfNvehwVVtDq_1pxwsx3BOCc9PA-1KQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ServeTheHomeVideo)
-
-[**ServeTheHome**](https://www.youtube.com/@ServeTheHomeVideo) \
-Content about: Server Hardware, Networking and other hardware for the professional \
-Featured playlists: `About Servers`, `Fanless`, `Mini PC`, `Workstations`, `Current Events`, `Storage`, `Server Processors`, `Networking`, `Cool server hardware`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/4toKBJKPsAfwxy2xfr_EQJ7CuHpLvZa4eux6T2TAf8EU25uH_G9gbUA9djqaCrTjkIESnPjzww=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@BranchEducation)
-
-[**Branch Education**](https://www.youtube.com/@BranchEducation) \
-Content about: All technological devices internal working \
-Featured playlists: `Memory`, `SSD`, `Microchips`, `Mouse`, `PCB`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_kXdcS1h9wsDkagn4XjbFv2ciijyxDcSUYsGfvrcd6USw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@iforce2d)
-
-[**iforce2d**](https://www.youtube.com/@iforce2d) \
-Content about: Radio-controlled devices, Arduino \
-Featured playlists: `Arduino RC Things`, `RUBE editor tutorials`, `Arduino mini radiosonde`, `Arduino GSM Things`, `Noobs guide to quadcopters`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_n9q5QDQLpol-a7QJStLiJWRPx-IwsPWMik7HPu-7TmmcY=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@renerebe)
-
-[**Bits inside by René Rebe**](https://www.youtube.com/@renerebe) \
-Content about: Various devices, Linux, Open source \
-Featured playlists: `DIY / Repair`, `Retro / Vintage`, `Linux`, `FPGA`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_k0zgeBetnKOR9pAF0lfn87XESBiJBIQUMSDJ11sLcScnw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@stacksmashing)
-
-[**stacksmashing**](https://www.youtube.com/@stacksmashing) \
-Content about: Reverse engineering, Video game hacking \
-Featured playlists: `Game & Watch Hacking`, `Game Boy Hacking`, `Embedded & IoT hacking`, `Reversing WannaCry`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_l17lYcTcRSydZeQK-RuiSfEeH5eX9m4irSNQj6109v5MQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@EEVblog)
-
-[**EEVblog**](https://www.youtube.com/@EEVblog) \
-Content about: Electronics, Computer peripherals, Devices \
-Featured playlists: `Electronics Tutorial - DC Fundamentals`, `Electronics Tutorials - AC Theory Series`, `Open Source Hardware`, `and many more!`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_k-qMilaXXOCC7AjANxEeEcjhfowiKg25A-Dpa-QmPSzP4=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@w2aew)
-
-[**w2aew**](https://www.youtube.com/@w2aew) \
-Content about: Electronics, Circuits \
-Featured playlists: `Basics on Capacitors and Inductors`, `Op Amp Tutorials`, `Circuit Tutorials`, `Bipolar Transistor Videos`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_kofRvJP-uxkHBcRV-scwif16qFhHrEx3L15uBFA2FJm88=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Afrotechmods)
-
-[**Afrotechmods**](https://www.youtube.com/@Afrotechmods) \
-Content about: Electronics \
-Featured playlists: `Electronics for Beginners`, `All about bateries`, `Passive filters`, `Oscilloscope tutorials`, `Tutorials about inductors`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ytc/AIdro_kkPKtzIooXCcTnlEFwrFyQ4OQgrJmZ6O3fFpCnphz-MJw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@RFDesignbasics)
-
-[**RF Design Basics**](https://www.youtube.com/@RFDesignbasics) \
-Content about: Electronics, Systems, Theoretical classes \
-Featured playlists: `Control Systems`, `Electromagnetic Field Theory`, `Digital System Design/Digital logic design`, `Circuit Theory/Network Theory`, `Transmission Lines and Waveguides`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/vZ7VA73svzSGV75jdhRH6XOOokQc0c5pK3xAWsYKuaHU-i6zmrjO2JEuZs6vN-3MmEMM563p7vw=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@rossmanngroup)
-
-[**Louis Rossmann**](https://www.youtube.com/@rossmanngroup) \
-Content about: Devices, Repair tutorials \
-Featured playlists: `Not recognizing internal SSD/hard drive`, `SSD Data Recovery`, `Macbook USB port not working`, `usb drive data recovery`, `and much more!`.
-
-[🔼 Back to the top](#contents)
-
-## Competitive Programming
-
-This category contains some of the channels you can follow to get advice in order to gain experience and increase your competitive programming skills.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-vxWUfyxiYaed6g7no_ja24Sk4bOQvqy3vOA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/tusharroy2525)
-
-[**Tushar Roy - Coding Made Simple**](https://www.youtube.com/user/tusharroy2525) \
-Content about: Data Structures and Algorithms, Dynamic Programming, Leetcode \
-Featured playlists: `Dynamic Programming`, `Graph Algorithms`, `Binary Tree`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/rsKAERVEXNTq6lbdIHUlm3aVAw4R2D1fPkDz-7sPccu9qwic5EYfSe6VI7tNB5-_r0Ip5_P0=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/GauravSensei)
-
-[**Gaurav Sen**](https://www.youtube.com/c/GauravSensei) \
-Content about: System Design, Data Structures & Algorithms \
-Featured playlists: `System Design`, `Competitive Programming A-Z`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/efrVnDJbJOQ5XcXrrFhA9V2wTXh6gP_i0KycoYjqhN3nEh6VbCgqMQakAcFqEsguw7wxhHEjnA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ByteByteGo)
-
-[**ByteByteGo**](https://www.youtube.com/c/ByteByteGo) \
-Content about: Large scale system design \
-Featured playlists: `Algorithms You Should Know For System Design`, `System Design Fundamentals`, `System Design Interview`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu9dupLKLe6WOebxccdC3Im4aHMfCR9M4GjydKOZ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CSDojo)
-
-[**CS Dojo**](https://www.youtube.com/c/CSDojo) \
-Content about: Data Structures & Algorithms \
-Featured playlists: `Data Structures and Algorithms`, `Coding Interview Questions and Answers`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu-mNYkWKdRO5UORKk8xmG_Gyb11N4PbiJ0BZlZW8Q=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/BackToBackSWE)
-
-[**Back To Back SWE**](https://www.youtube.com/c/BackToBackSWE) \
-Content about: Leetcode, Software Engineering Interview \
-Featured playlists: `Tree, Binary Trees & Binary Search Tree`, `Sorting, Searching & Heaps`, `Dynamic Programming, Recursion & Backtracking`, `Graphs, Greedy Algorithms & Other`. 
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AMLnZu8aa8BR8qGCyjKSHpnt5qCFReOEZ_xTtK3hqknPgA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/Errichto)
-
-[**Errichto**](https://www.youtube.com/c/Errichto) \
-Content about: Leetcode, Codeforces \
-Featured playlists: `Codeforces Problems`, `Leetcode Coding Interview Problems`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/FqiGBOsNpeWbNw20ULboW0jy88JdpqFO9a-YRJ0C2oc4lZ8uoHYJ38PWSkrjdC_zQgNW9pGU=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NeetCode)
-
-[**NeetCode**](https://www.youtube.com/c/NeetCode) \
-Content about: Leetcode, Coding Interview \
-Featured playlists: `LeetCode East`, `LeetCode Medium`, `LeetCode Hard`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/nJZ_GcVB5zWL5Z526_vwiEeT7vdKqWjzLxKQdeHaXnoWbzOAIJzI7a5i0mVvLHjkt3TJK3oifg=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/KevinNaughtonJr)
-
-[**Kevin Naughton Jr.**](https://www.youtube.com/c/KevinNaughtonJr) \
-Content about: Leetcode, Coding Interview \
-Featured playlists: `Technical Interview Questions`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/MWCIzDNJJrk7mU5kV2V9EnyaKXVPn5en7uyX589c2Bu1iizhHY4h1ih02JZJ1cv8KCM8uY8g4OQ=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/NickWhite)
-
-[**Nick White**](https://www.youtube.com/c/NickWhite) \
-Content about: Leetcode, HackerRank, Coding Interview \
-Featured playlists: `LeetCode Solution`, `HackerRank Solution`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/fSej0H2ok--_bj9NiNPw53QSJwWnsUBVJ0UhvR5h-OGaHICJg6Y7j0wUwWyTFDbHUODUJfci=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/PriyanshAgarwal)
-
-[**Priyansh Agarwal**](https://www.youtube.com/c/PriyanshAgarwal) \
-Content about: Code Chef, Codeforces \
-Featured playlists: `Codeforces Screencasts`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/1uVY5t7YBg_N-hrqBA5teFdz87Y3EU-J13Zrl10qsc_u0JfFML6cKNmYV2mzovJF9lXxrSNHwQ=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/WilliamFiset-videos)
-
-[**WilliamFiset**](https://www.youtube.com/c/WilliamFiset-videos) \
-Content about: Algoritms, Data structures \
-Featured playlists: `Network Flow playlist`, `Data structures playlist`, `Graph Theory Playlist`, `Tree Algoritms`, `Dynamic Programming`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJymF9D2kCpzhV3feeWOuCw_xf2FzmYUCabaBrhj=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCXpGqiSd3BD0FQ9OP3ziFsw)
-
-[**KodingKevin**](https://www.youtube.com/channel/UCXpGqiSd3BD0FQ9OP3ziFsw) \
-Content about: Data Structures, Algorithms, Coding Interview \
-Featured playlists: `Array Methods Mini Course`, `Javascript Algorithms + Data Structures`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjNuAEn_s-yPHJAT4w-d-r4rUHdEZow5w0fyg47=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCmWDlvMYYEbW42B8JyxFBcA)
-
-[**NullPointer Exception**](https://www.youtube.com/channel/UCmWDlvMYYEbW42B8JyxFBcA) \
-Content about: Theoretical, Data \
-Featured playlists: `Introduction to Data Structures`, `Sorting Algorithm Lectures/Visualizations`, `Introduction to Object-Oriented Programming`.
-
-[🔼 Back to the top](#contents)
-
-## Digital Design
-
-Design websites, illustrations, drawings and more using programs such as the ones provided by the Adobe suite or open-source programs. Different types of styles and methods.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxyZLmMiocMlFDS5BkCFVJdNb5Z_6LIVtxOLVyS=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/HowtoGraphicDesign)
-
-[**How to Graphic Design**](https://www.youtube.com/c/HowtoGraphicDesign) \
-Content about: Adobe Illustrator, Illustrations \
-Featured playlists: `Adobe Illustrator CC Flat Illustration Tutorials`, `Logo Creation Tutorials Playlist`, `Adobe Illustrator CC for Beginners`, `more Adobe Illustrator playlists`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJz0yGLAogfKCoU7YgR_8bUj0q4c2WlDkcCozlT49w=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/armaganvideos)
-
-[**ArmaganVideos**](https://www.youtube.com/c/armaganvideos) \
-Content about: Adobe Illustrator, Illustrations, Flat design \
-Featured playlists: `Tutorials - Illustrator`, `Tutorials - After Effects`, `Tutorials - Flat Design`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzlxT8H3XaR4aTb9gpiNUAGid4XnpKk8Sk1N7BG=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/TTTutorials)
-
-[**T&T Tutorials**](https://www.youtube.com/c/TTTutorials) \
-Content about: Adobe Illustrator, Adobe Photoshop, Hand-drawing \
-Featured playlists: `Adobe Illustrator Tutorials`, `Character Illustration Illustrator Tutorials`, `Adobe Illustrator Tools Tutorials`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJygq4Pq_23OEZs2MZbLitD4i8YHBVe7NsNvcnsFag=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Pixelandbracket)
-
-[**Pixel & Bracket**](https://www.youtube.com/c/Pixelandbracket) \
-Content about: Adobe Illustrator, Adobe Photoshop \
-Featured playlists: `Illustrator Tutorials`, `Photoshop Tutorials`, `other design videos`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxZgbkZh-4rbYswKEsnjK9loXD0ycFuFc_EEX5CLA=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/ZakeyDesignow)
-
-[**Zakey Design**](https://www.youtube.com/c/ZakeyDesignow) \
-Content about: Gimp, Inkscape, Adobe Illustrator \
-Featured playlists: `Gimp Photo Manipulation`, `Inkscape playlist`, `Adobe Illustrator videos`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ls56op2UiRpg-Q-QVQaCEoNRVlf4AqmbHH9h3fnMXUsodnWLw4Pi91Pypyb7BCy4g_FV-A_t=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ArtwithFlo)
-
-[**Art with Flo**](https://www.youtube.com/c/ArtwithFlo) \
-Content about: Procreate, Ipad/tablet drawing \
-Featured playlists: `PROCREATE TUTORIALS`, `DIGITAL ART TUTORIALS`, `Digital Drawing on iPad Pro | Easy Drawing Tutorials`, `more playlists!`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJyDKjIXjD19amsFlS8OLCTiMwplipojomEjZeUTrQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/tutsplus)
-
-[**Envato Tuts+**](https://www.youtube.com/c/tutsplus) \
-Content about: All design, Illustrations, Web design \
-Featured playlists: `Learn Adobe Photoshop`, `Learn About Fonts`, `Photo and video manipulation playlists`, `Figma videos`, `Learn Photo Effects`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/U-tExJBlj76TiptkigPzhFUANYGSguL2glMdd3z_cvcG8aw6sB7gNpxl12UD-a_wl3u1L4jmdg=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/logosbynick)
-
-[**Logos By Nick**](https://www.youtube.com/c/logosbynick) \
-Content about: Inkscape, Gimp \
-Featured playlists: `Inkscape Beginner Tutorials`, `GIMP Tutorials`, `Inkscape Typeface Tutorials`, `Inkscape Logo Design Tutorials`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AAUvwnjNoBbN8dcRvQmBgN4oTSZVTnb-KDu41GJWStY-=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/MohamedAchraf)
-
-[**Mohamed Achraf**](https://www.youtube.com/c/MohamedAchraf) \
-Content about: Adobe Illustrator \
-Featured playlists: `The Logo Design Process`, `Adobe Illustrator Tips & Tricks`, `Character Designs`, `Illustrator Speedarts`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/sYiP1NizwJGYbr_zZ1mOOXJeFk3ffhiclJgj4XmQox1WGWt62Wwh_jCMlcDhylKYmREEDfjqiw=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ)
-
-[**CharliMarieTV**](https://www.youtube.com/channel/UCScRSwdX0t31gjk3MYXIuYQ) \
-Content about: web, graphic design \
-Featured playlists: `Design careers`, `Workflow`, `Design chat`, `Freelancing as a designer`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AKedOLTk233iPUrYYjd_Vs9j602bTjV7rLe0IAyvrJRe=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/YesImaDesigner)
-
-[**Yes I'm a Designer**](https://www.youtube.com/c/YesImaDesigner) \
-Content about: Design principles, Design tools tutorials \
-Featured playlists: `365 days of creativity`, `Illustrator CC`, `Indesing tutorials`, `Photoshop CC`. \
-<br />
-
-[🔼 Back to the top](#contents)
-
-## Audio and Video
-
-Tutorials about audio and video making. Includes wide topics, such as design, animation, rendering, hardware and more.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJzaWbDjViF6gjYUtZnSaPf7EAqhxo-UX_5vuXaRDQ=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/Obedia)
-
-[**OBEDIA**](https://www.youtube.com/c/Obedia) \
-Content about: Audio, Hardware \
-Featured playlists: `PreSonus Studio One Tutorials`, `Cubase Tutorials`, `Ableton Tutorials by OBEDIA`, `Cakewalk Sonar Tutorials`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJycV557ukLUO4022GP-8xFrGWBUjoj0PnUhQwuHRw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/c/BlackMixture)
-
-[**Black Mixture**](https://www.youtube.com/c/BlackMixture) \
-Content about: After Effects, Animation \
-Featured playlists: `SPEEDPAINT ANIMATION`, `Motion Design`, `After Effects Tutorials`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJw1EJaU6c5-oLxVdCO91mNBSM0CaflC7YaVlbH67g=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/user/avnishparker)
-
-[**Avnish Parker**](https://www.youtube.com/user/avnishparker) \
-Content about: Animation, Design \
-Featured playlists: `After Effects Tutorials`, `Text Animation - After Effects Tutorials`, `Logo Intro - After Effects Tutorials`, `Motion Graphics - After Effects Tutorials`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/LJN2pAzpawmDUHdviNP75i7rjbBAz8IkvyXu1YUND-_bvjAHFxyS0RDklDE4PBG5PaKq5TZcSA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/DenyKingYoutube)
-
-[**Deny King**](https://www.youtube.com/c/DenyKingYoutube) \
-Content about: Video, Photos \
-Featured playlists: `Video Editing`, `Manipulation PicsArt`, `many other video/photo editing videos`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ewXcoWsc-CNvalYafQyR6X-f2BOg5t99m9oLH9m2Kf96dx7KbLQGKzBEPt-NYtIR0DVa0hM2yA=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/user/AndrewPPrice)
-
-[**Blender Guru**](https://www.youtube.com/user/AndrewPPrice) \
-Content about: Blender, 3D modeling \
-Featured playlists: `Blender beginner tutorial series`, `Blender modeling chair tutorial`, `Couch tutorial series`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxM0K7wxdDj0TOqzP-qqkvafeirxwSV8G2I8SDfVA=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@grabbitt)
-
-[**Grant Abbitt**](https://www.youtube.com/@grabbitt) \
-Content about: 3D modeling, Reptology, Blender \
-Featured playlists: `Learn sculpting in blender 2.8`, `Blender 2.8 for beginners full course`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxlxDpTb7dFWyQpXiPqWxGQ0WWWyA5GNwf72ru1=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/CGFastTrack)
-
-[**CG Fast Track**](https://www.youtube.com/c/CGFastTrack) \
-Content about: Blender, 3D modeling \
-Featured playlists: `Blender 2.9 Beginner Tutorial Series`, `CG Fast Track`. \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/ytc/AL5GRJUS0B38G8QpJm-h4PDd3wtrYFuSup0a3ZqD_a8uLw=s88-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CGGeek)
-
-[**CG Geek**](https://www.youtube.com/@CGGeek) \
-Content about: Animation, Blender, 3D modeling, Visual Effects \
-Featured playlists: `Blender beginner tutorial series`, `Bob Ross with Realistic 3D graphics`, `Blender Nature tutorials`, `Star wars 3D tutorials`.
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/GDFo9QnOEGgdZgZDigkzViI5dvGfD60c-wLSpVrpDfcooQDwLm1axE0UoZPmqTKYVOCXXCwL=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ)
-
-[**DUCKY 3D**](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ) \
-Content about: Video, Photos \
-Featured playlists: `Shading with nodes`.`Making looping animations with Blender in Eevee engine` \
-<br />
-
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/xbMb6PA5YkD_j1fo-i1xm0CrSfucSEKrgM59fy8hz8fRdv8Nht40k0BXh4W3dKWiiBatFrMMfW4=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@marcevanstein)
-
-[**Marc Evanstein / music․py**](https://www.youtube.com/@marcevanstein) \
-Content about: Music theory, Music libraries \
-Featured playlists: `SCAMP Tutorial`, `SCAMP`, `Video Essays` \
-<br />
-
-[🔼 Back to the top](#contents)
 
 ## Life Skills
 
