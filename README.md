@@ -40,7 +40,7 @@
 <!--lint disable awesome-heading-->
 <div align="center">
   	<h1>
-    	**Best YouTubers**
+    	 Best YouTubers
   	</h1>
 </div>
 
@@ -58,9 +58,9 @@
 -   [Life Skills](#life-skills)
 
 
-## Web Development Hindi/Nepali
+## Web Development/Hindi/Nepali
 
-### frontend Hindi/Nepali
+### frontend/Hindi/Nepali
 
 [<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxSW9SqAjU_Q4ZXAXfqmGblSkFkUSOMUAnLvK5_mw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/@chaiaurcode)
 
@@ -69,7 +69,8 @@ Content about: Frontend \
 Featured playlists: `JavaScript course`, `python`, `c++`, `Django`, `a lot more of playlists and videos`.
 <br />
 
-### backend Hindi/Nepali
+
+### backend/Hindi/Nepali
 
 
 ## Web Development
