@@ -76,6 +76,14 @@ Content about: Frontend \
 Featured playlists: `JavaScript course`, `python`, `c++`, `Java`, `PHP`, `a lot more of playlists and videos`.
 <br />
 
+[<img align="left" height="94px" width="94px" alt="CodeWithHarry" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC_bbDXoIXrgYsha59S-_PSBzsmKVy672Q8rrWpC4xBXEXPLRtjojMxqnHx7d5I5-Ft4Y&usqp=CAU"/>](https://www.youtube.com/@ApnaCollegeOfficial)
+
+[**Apna College**](https://www.youtube.com/@ApnaCollegeOfficial) \
+Content about: Frontend \
+Featured playlists: `JavaScript course`, `python`, `c++`, `DSA`, `a lot more of playlists and videos`.
+<br />
+
+
 [<img align="left" height="94px" width="94px" alt="CodeWithHarry" src="https://media.licdn.com/dms/image/v2/D4D03AQHGNAxeyJhZbQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1685972237021?e=2147483647&v=beta&t=6ElxN1xDajSS3ry09A1rAPgwP-0Hk_oyrO2_oKE2HPI"/>](https://www.youtube.com/@shradhaKD)
 
 [**Shradha Khapra**](https://www.youtube.com/@shradhaKD) \
