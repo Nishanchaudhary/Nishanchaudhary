@@ -96,7 +96,7 @@ Content about: Frontend \
 Featured playlists: `JavaScript course`, `python`, `c++`, `DSA`, `a lot more of playlists and videos`.
 <br />
 
-[<img align="left" height="94px" width="94px" alt"DEV Community Nepal" src="https://media.licdn.com/dms/image/v2/D4D22AQEyf28SJbnBtA/feedshare-shrink_800/feedshare-shrink_800/0/1711987893823?e=2147483647&v=beta&t=aw0pXkCKOcdrgU1grVuLCEstQAM0M_WJYkPFLHZOlng"/>](https://www.youtube.com/@devcommunitynepal)
+[<img align="left" height="94px" width="94px" alt"DEV Community Nepal" src=""/>](https://www.youtube.com/@devcommunitynepal)
 
 [**DEV Community Nepal**](https://www.youtube.com/@devcommunitynepal) \
 Content about: Frontend \
