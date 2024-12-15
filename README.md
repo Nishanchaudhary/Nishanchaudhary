@@ -60,10 +60,9 @@
 
 ## Web Development Hindi/Nepali
 
-### frontend-Hindi/Nepali
+### frontend Hindi/Nepali
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://github.com/user-attachments/assets/ef796eb3-eff3-4607-9592-acc2e051d435
-"/>](https://www.youtube.com/@chaiaurcode)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://images.pexels.com/photos/18681382/pexels-photo-18681382/free-photo-of-coding.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"/>](https://www.youtube.com/@chaiaurcode)
 
 [**Chai aur Code**](https://www.youtube.com/@chaiaurcode) \
 Content about: Frontend \
@@ -71,7 +70,7 @@ Featured playlists: `JavaScript course`, `python`, `c++`, `Django`, `a lot more 
 <br />
 
 
-### backend-Hindi/Nepali
+### backend Hindi/Nepali
 
 
 ## Web Development
