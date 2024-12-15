@@ -45,9 +45,9 @@
 </div>
 
 ## Contents
--  [Web Development Hindi/Nepali](#Web Development Hindi/Nepali)
-  	- [Frontend Hindi/Nepali](#frontend Hindi/Nepali)
-	- [Backend Hindi/Nepali](#backend Hindi/Nepali)
+-  [Web Development/Hindi/Nepali](#Web Development/Hindi/Nepali)
+  	- [Frontend/Hindi/Nepali](#frontend/Hindi/Nepali)
+	- [Backend/Hindi/Nepali](#backend/Hindi/Nepali)
 -   [Web Development](#web-development)
 	- [Frontend](#frontend)
 	- [Backend](#backend)
@@ -62,7 +62,7 @@
 
 ### frontend Hindi/Nepali
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://www.linkedin.com/in/hiteshchoudhary/overlay/photo"/>](https://www.youtube.com/@chaiaurcode)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.ggpht.com/a/AATXAJxSW9SqAjU_Q4ZXAXfqmGblSkFkUSOMUAnLvK5_mw=s100-c-k-c0xffffffff-no-rj-mo"/>](https://www.youtube.com/@chaiaurcode)
 
 [**Chai aur Code**](https://www.youtube.com/@chaiaurcode) \
 Content about: Frontend \
