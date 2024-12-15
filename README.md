@@ -69,6 +69,12 @@ Content about: Frontend \
 Featured playlists: `JavaScript course`, `python`, `c++`, `Django`, `a lot more of playlists and videos`.
 <br />
 
+[<img align="left" height="94px" width="94px" alt="CodeWithHarry" src="https://www.codewithharry.com/img/logo-blue.png"/>](https://www.youtube.com/@CodeWithHarry)
+
+[**CodeWithHarry**](https://www.youtube.com/@CodeWithHarry) \
+Content about: Frontend \
+Featured playlists: `JavaScript course`, `python`, `c++`, `Java`, `PHP`, `a lot more of playlists and videos`.
+<br />
 
 ### backend Hindi/Nepali
 
