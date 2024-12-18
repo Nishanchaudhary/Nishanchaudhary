@@ -27,6 +27,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishanchaudhary&" alt="nishanchaudhary" /></p>
 
+# 📜 Certificates Showcase
+
+Welcome to my certificate gallery! Below, you’ll find links to the certifications I’ve earned across various domains. Each certificate represents a step forward in my learning journey and skill development. 🎓✨
+
+| **Certificate Name**            | **Issuer**        | **Issued On**  | **Link**                                                                                 |
+|---------------------------------|-------------------|----------------|------------------------------------------------------------------------------------------|
+| Front-End Development           | skillshikshya     | December 2024  | [View Certificate](https://certification.skillshikshya.com/Certificates/4/FWRDC9112.png) |
+| CSS                             | sololearn         | December 2023  | [View Certificate](https://www.sololearn.com/certificates/CC-APZMCGJH)                   |
+| HTML                            | sololearn         | November 2021  | [View Certificate](https://www.sololearn.com/certificates/CT-BSCI44TM)                   |
+
 
 
 
