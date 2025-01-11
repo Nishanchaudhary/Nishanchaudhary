@@ -1,5 +1,5 @@
 <img align="right" alt="Coding" width="100%" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif">
-<h1 align="center">Hi 👋, I'm Nishan Chaudhary</h1>
+<h1 align="center">Hi 👋, I'm Nishan Kumar Chaudhary</h1>
 <h3 align="center">Passionate full stack developer from Nepal Welcome to my GitHub profile!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVuOWt3OTNveXBzODM4bHJ1eHJ1dTJ5ajI4Zm9ld2o4ZmI1ZzRsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif">
 
