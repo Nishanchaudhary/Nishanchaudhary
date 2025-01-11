@@ -45,7 +45,7 @@ Welcome to my certificate gallery! Below, you’ll find links to the certificati
 
 ___
 
-# Tailwind CSS Integration with Django
+# <span style="color:blue">Tailwind CSS Integration with Django</span>
 
 This guide provides a step-by-step approach to integrate **Tailwind CSS** with a Django project. Tailwind CSS is a utility-first CSS framework that simplifies the development of custom user interfaces.
 
