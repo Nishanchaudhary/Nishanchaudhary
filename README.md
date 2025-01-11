@@ -43,6 +43,7 @@ Welcome to my certificate gallery! Below, you’ll find links to the certificati
 
 
 
+___
 
 # Tailwind CSS Integration with Django
 
