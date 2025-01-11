@@ -34,10 +34,10 @@ Welcome to my certificate gallery! Below, you’ll find links to the certificati
 | **Certificate Name**     | **Issuer**        | **Issued On**  | **Link**                                                                                              |
 |--------------------------|-------------------|----------------|-------------------------------------------------------------------------------------------------------|
 | Front-End Development    |[ Skillshikshya ](https://skillshikshya.com/)    | December 2024  | [View Certificate](https://certification.skillshikshya.com/Certificates/4/FWRDC9112.png)              |
-| Python with Django       | Sipalaya          | June 2024      | [View Certificate](https://drive.google.com/file/d/1iQN9EmRq6-CHIucbjjviiKCJlnfBGMsu/view?usp=sharing)|
-| CSS                      | Sololearn         | December 2023  | [View Certificate](https://www.sololearn.com/certificates/CC-APZMCGJH)                                |
-| C                        | Sololearn         | November 2021  | [View Certificate](https://www.sololearn.com/certificates/CT-6LX5ZLSZ)                                |
-| HTML                     | Sololearn         | November 2021  | [View Certificate](https://www.sololearn.com/certificates/CT-BSCI44TM)                                |
+| Python with Django       | [Sipalaya  ](https://sipalaya.com/)        | June 2024      | [View Certificate](https://drive.google.com/file/d/1iQN9EmRq6-CHIucbjjviiKCJlnfBGMsu/view?usp=sharing)|
+| CSS                      | [Sololearn](https://www.sololearn.com/)         | December 2023  | [View Certificate](https://www.sololearn.com/certificates/CC-APZMCGJH)                                |
+| C                        | [Sololearn](https://www.sololearn.com/)         | November 2021  | [View Certificate](https://www.sololearn.com/certificates/CT-6LX5ZLSZ)                                |
+| HTML                     | [Sololearn](https://www.sololearn.com/)         | November 2021  | [View Certificate](https://www.sololearn.com/certificates/CT-BSCI44TM)                                |
 
 
 
