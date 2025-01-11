@@ -273,25 +273,6 @@ In your base template, load the Tailwind tags and include the CSS file:
   	</h1>
 </div>
 
-## Contents
--  [Web Development/Hindi/Nepali](#Web-Development-Hindi/Nepali)
-  
--   [Web Development](#web-development)
-	- [Frontend](#frontend)
-	- [Backend](#backend)
- -  [Programming in general](#programming-in-general)
--   [Computer Science](#computer-science)
--   [Machine Learning](#machine-learning)
--   [Cybersecurity](#cybersecurity)
--   [Life Skills](#life-skills)
-
-
-
-
-
-
-
-
 ## Web Development Hindi/Nepali
 
 
