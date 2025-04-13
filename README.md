@@ -284,7 +284,7 @@ Content about: Frontend \
 Featured playlists: `JavaScript course`, `python`, `c++`, `Django`, `a lot more of playlists and videos`.
 <br />
 
-[<img align="left" height="94px" width="94px" alt="CodeWithHarry" src="https://www.codewithharry.com/img/logo-blue.png"/>](https://www.youtube.com/@CodeWithHarry)
+[<img align="left" height="94px" width="94px" alt="CodeWithHarry" src="https://yt3.googleusercontent.com/ytc/AIdro_kX3sdbuu3KFmRPsmlu0R5Rx_BhpxwupjtvJmkEdNfla7w=s900-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@CodeWithHarry)
 
 [**CodeWithHarry**](https://www.youtube.com/@CodeWithHarry) \
 Content about: Frontend \
