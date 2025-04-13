@@ -313,7 +313,7 @@ Content about: Frontend \
 Featured playlists: `JavaScript course`, `python`, `c++`, `DSA`, `a lot more of playlists and videos`.
 <br />
 
-[<img align="left" height="94px" width="94px" alt="DEV Community Nepal" src=""/>](https://www.youtube.com/@devcommunitynepal)
+[<img align="left" height="94px" width="94px" alt="DEV Community Nepal" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-okz1IFvmSDs7zwO41Bb_zk0DhTf3KcZvig&s"/>](https://www.youtube.com/@devcommunitynepal)
 
 [**DEV Community Nepal**](https://www.youtube.com/@devcommunitynepal) \
 Content about: Frontend \
